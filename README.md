@@ -1,0 +1,1 @@
+# chectl-package-brew
